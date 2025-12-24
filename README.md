@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Rahul-9307">
-    <img src="./assets/ele/card_banner.png" width="1000" height="200" />
+    <img src="./portfolio-main/assets/ele/preview.png" width="1000" height="500" />
   </a>
 </p>
 <h1>★ Modern Portfolio Website</h1>
