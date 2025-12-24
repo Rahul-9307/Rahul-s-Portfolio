@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/Rahul-9307">
-    <img src="./portfolio-main/assets/ele/preview.png" width="1000" height="500" />
+    <img src="./portfolio-main/assets/ele/card_banner_1.png width="1000" height="500" />
   </a>
 </p>
-<h1>★ Modern Portfolio Website</h1>
+<h1>★ Modern Portfolio Website </h1>
 
 <h4>
   
@@ -163,7 +163,7 @@ This repository features responsive web design with mobile-first approach, inter
   - Vanilla JavaScript for performance optimization
   - Font Awesome icons and Google Fonts integration
 
-[![Preview](./assets/ele/preview.png)]()
+[![Preview](./portfolio-main/assets/ele/preview.png")]()
 <p>
  This portfolio project is a modern web showcase built with HTML5, CSS3, and vanilla JavaScript. The website features responsive design, smooth animations, and interactive components that demonstrate professional web development skills. Perfect for developers, students, and professionals looking to create an impressive online presence.
  <br>
