@@ -1,0 +1,67 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "AI-Powered Code Reviewer",
+      "description": "An intelligent code-review automation tool built using Node.js, React.js, and MongoDB, integrated with Gemini AI. Designed to help developers review pull requests faster with AI-generated insights.",
+      "technologies": ["JavaScript", "Node.js", "React.js","MongoDB","Gemini AI"],
+      "category": "automation",
+      "image": "./assets/projects/scriptable.png",
+      "githubUrl": "https://github.com/Rahul-9307/AI-Powered-Code-Reviewer",
+      "liveUrl": "https://ai-powered-code-reviewer-rahultech.netlify.app/",
+      "liveLabel": "Live Demo",
+      "liveIcon": "fas fa-eye",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Twitter Clone",
+      "description": "A clean and responsive Twitter-style UI clone built using only HTML and CSS. Designed to replicate the look and feel of Twitter’s interface with modern styling, smooth layout, and pixel-perfect component design.",
+      "technologies": ["HTML", "CSS"],
+      "category": "web",
+      "image": "./assets/projects/bashfolio.png",
+      "githubUrl": "https://github.com/Rahul-9307/Twitter-Clone",
+      "liveUrl": "https://twitterclonetechrahul.netlify.app/",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Resume Builder",
+      "description": "A modern and intuitive Resume Builder that allows users to create professional resumes instantly. Features include customizable templates, live preview, easy form inputs, PDF download support, and a clean UI designed for job seekers to build resumes effortlessly.",
+      "technologies": ["HTML", "CSS", "JavaScript", "PDF Generation"],
+      "category": "web",
+      "image": "./assets/projects/githubstats.png",
+      "githubUrl": "https://github.com/Rahul-9307/Internship-Project./tree/main/Resume-Builder-master/Resume-Builder-master",
+      "liveUrl": "https://resume-builder-tech-rahul.netlify.app/",
+      "liveLabel": "Live Demo", 
+      "liveIcon": "fas fa-eye",
+      "featured": true
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "name": "All",
+      "icon": "fa-solid fa-diagram-project",
+      "visible": true
+    },
+    {
+      "id": "web",
+      "name": "Web Dev",
+      "icon": "fa-solid fa-globe",
+      "visible": true
+    },
+    {
+      "id": "education",
+      "name": "Educational",
+      "icon": "fa-solid fa-graduation-cap",
+      "visible": false
+    },
+    {
+      "id": "automation",
+      "name": "Automation",
+      "icon": "fa-solid fa-robot",
+      "visible": true
+    }
+  ]
+}
