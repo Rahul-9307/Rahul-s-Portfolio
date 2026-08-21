@@ -252,7 +252,7 @@ class PortfolioApp {
             // Set light theme profile picture with smooth transition
             if (profileImage) {
                 // this.switchProfileImage(profileImage, './assets/ele/profile_graba1.jpg', 'Tirth Patel - Developer Illustration (Light Theme)', 'none');
-                this.switchProfileImage(profileImage, './assets/ele/profile2.jpg', 'Tirth Patel - Developer Illustration (Light Theme)', 'none');
+                this.switchProfileImage(profileImage, './assets/ele/photo2.png', 'Tirth Patel - Developer Illustration (Light Theme)', 'none');
             }
         }
         

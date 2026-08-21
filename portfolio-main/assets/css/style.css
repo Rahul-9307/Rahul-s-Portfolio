@@ -1562,7 +1562,7 @@ body.loading .hero-image {
 }
 
 .profile-image {
-    width: 100%;
+    width: 103%;
     height: 100%;
     border-radius: 50%;
     object-fit: cover;
