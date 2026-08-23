@@ -4,7 +4,13 @@
       "id": 1,
       "title": "AI-Powered Code Reviewer",
       "description": "An intelligent code-review automation tool built using Node.js, React.js, and MongoDB, integrated with Gemini AI. Designed to help developers review pull requests faster with AI-generated insights.",
-      "technologies": ["JavaScript", "Node.js", "React.js","MongoDB","Gemini AI"],
+      "technologies": [
+        "JavaScript",
+        "Node.js",
+        "React.js",
+        "MongoDB",
+        "Gemini AI"
+      ],
       "category": "automation",
       "image": "./assets/projects/scriptable.png",
       "githubUrl": "https://github.com/Rahul-9307/AI-Powered-Code-Reviewer",
@@ -26,6 +32,27 @@
     },
     {
       "id": 3,
+      "title": "AgriNext – Smart Crop Disease Detection & Farm Advisory",
+      "description": "An AI-powered smart farming platform designed to help farmers detect crop diseases, receive crop recommendations, and access useful agricultural advisory services. The project combines machine learning with a modern web application to support smarter and more informed farming decisions.",
+      "technologies": [
+        "Python",
+        "Machine Learning",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React.js",
+        "Node.js"
+      ],
+      "category": "web",
+      "image": "./assets/projects/argrinext.png",
+      "githubUrl": "https://github.com/Rahul-9307/AgriNext-Smart-crop-disease-detection-with-farm-advisory-",
+      "liveUrl": "https://agrinext-1.onrender.com",
+      "liveLabel": "Live Demo",
+      "liveIcon": "fas fa-eye",
+      "featured": true
+    },
+    {
+      "id": 4,
       "title": "Resume Builder",
       "description": "A modern and intuitive Resume Builder that allows users to create professional resumes instantly. Features include customizable templates, live preview, easy form inputs, PDF download support, and a clean UI designed for job seekers to build resumes effortlessly.",
       "technologies": ["HTML", "CSS", "JavaScript", "PDF Generation"],
@@ -33,7 +60,7 @@
       "image": "./assets/projects/githubstats.png",
       "githubUrl": "https://github.com/Rahul-9307/Internship-Project./tree/main/Resume-Builder-master/Resume-Builder-master",
       "liveUrl": "https://resume-builder-tech-rahul.netlify.app/",
-      "liveLabel": "Live Demo", 
+      "liveLabel": "Live Demo",
       "liveIcon": "fas fa-eye",
       "featured": true
     }
